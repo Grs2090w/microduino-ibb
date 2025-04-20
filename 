@@ -1,0 +1,48 @@
+[33mcommit 4418bda2d999a5f16252485edaf1d9298eebf4fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Sun Apr 20 00:24:04 2025 -0300
+
+    update libraries
+
+[33mcommit 5a77f867a325d1fbf44d3703320892703a7c07cf[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Mon Apr 14 22:37:00 2025 -0300
+
+    sloth
+
+[33mcommit 4074d1fe9fd5197c205cf1edea20e13dc8e1f351[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Sat Apr 12 16:21:26 2025 -0300
+
+    car-remote-control
+
+[33mcommit 2560584784e65f9bd09b9ee22447f4e5755b40ab[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Sat Apr 12 12:37:22 2025 -0300
+
+    _
+
+[33mcommit 5fd5844bbcf30e09811576501e85cebea6cc7d89[m
+Merge: 927d38d 9de310e
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Sat Apr 12 00:16:55 2025 -0300
+
+    Merge branch 'main' of https://github.com/Grs2080w/microduino-ibb
+
+[33mcommit 927d38dabf9fed9c9ce59d5c5bd63699b897d413[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Sat Apr 12 00:16:27 2025 -0300
+
+    line-follower
+
+[33mcommit 9de310eab26a064372bc20834d427d4b362790fd[m
+Author: Gabriel Santos <grs_santos2019@outlook.com>
+Date:   Thu Apr 10 22:45:39 2025 -0300
+
+    Update README.md
+
+[33mcommit 006c0f0eeb3e3d61117023d456a1a36ccfb72c8f[m
+Author: Grs2080w <grs_santos2019@outlook.com>
+Date:   Thu Apr 10 22:40:10 2025 -0300
+
+    first commit
